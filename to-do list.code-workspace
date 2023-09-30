@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ reff/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "to-do list"
+	}
+}
